@@ -1,6 +1,10 @@
 
-# Project Title
+## Technologies Used
 
+- Redux Saga
+- RTK Query
+- Passport.js
+- JWT
 ## Overview
 
 Brief overview of the project.
@@ -20,12 +24,7 @@ Instructions for installing and setting up the project.
 
 Guidelines on how to use the project and any important usage notes.
 
-## Technologies Used
 
-- Redux Saga
-- RTK Query
-- Passport.js
-- JWT
 
 ## Contributing
 
