@@ -1,4 +1,4 @@
-
+Figma Design-https://www.figma.com/file/mYgSEuG51tWrHNtbvlJDqp/Revanta_Web-Design?type=design&node-id=31%3A32
 ## Technologies Used
 
 - Redux Saga
